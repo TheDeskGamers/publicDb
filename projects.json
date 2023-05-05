@@ -1,9 +1,15 @@
 {
-   "wip": "Website",
-   "projects": {
-      "website": {
-         "val": 12,
+   "wip": "Geometry falls",
+   "projects": [
+      {
+         "name": "Website",
+         "val": 18,
          "max": 38
+      },
+      {
+         "name": "Geometry falls",
+         "val": 0,
+         "max": 5
       }
-   }
+   ]
 }
