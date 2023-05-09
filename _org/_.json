@@ -3,8 +3,9 @@
    "nickname": "TDG",
    "username": "TheDeskGamers",
    "motto": "We're two dudes making games",
-   "logo": "./logo.png",
+   "color": "#8800ff",
    "icon": "./icon.png",
+   "logo": "./logo.png",
    "creationDate": "2022-11-28",
    "website": "https://thedeskgamers.github.io"
 }
